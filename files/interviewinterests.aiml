@@ -56,6 +56,232 @@
         </category>
         
         <category>
+    <pattern>^ <set>uxuidesignerinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">UX/UI Designer</set></think>
+        <random>
+            <li><think><set name="current">10</set></think>Creating user-friendly interfaces is both an art and science. It's a fantastic choice!<br/></li>
+            <li><think><set name="current">6</set></think>Designing digital experiences can be incredibly satisfying. Great interest!<br/></li>
+            <li><think><set name="current">8</set></think>UX/UI Design is at the forefront of modern technology. Cool choice!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>technicalwriterinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Technical Writer</set></think>
+        <random>
+            <li><think><set name="current">5</set></think>Transforming complex information into clear documentation is a valuable skill. You're on the right track!<br/></li>
+            <li><think><set name="current">7</set></think>Technical writing is all about clarity and precision. Great interest!<br/></li>
+            <li><think><set name="current">11</set></think>Helping others understand technical concepts is a commendable choice!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>^ <set>systemsanalystinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Systems Analyst</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Computer systems exist all over the place. It's a good idea to have a good grasp of them!<br/></li>
+            <li><think><set name="current">11</set></think>Computers are difficult to understand sometimes but so helpful!<br/></li>
+            <li><think><set name="current">9</set></think>Where would we be without computers?! Honestly! Great interest!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>researchscientistinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Research Scientist</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Research scientists explore the unknown and make discoveries. Fascinating interest!<br/></li>
+            <li><think><set name="current">11</set></think>Scientific research is the foundation of progress. Great choice!<br/></li>
+            <li><think><set name="current">8</set></think>Research can change the world. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>psychologistinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Psychologist</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>The human mind is a fascinating subject to study. Great interest!<br/></li>
+            <li><think><set name="current">7</set></think>Helping people understand their thoughts and emotions is a noble profession. You're on the right path!<br/></li>
+            <li><think><set name="current">8</set></think>Psychologists make a positive impact on mental health. Excellent choice!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>projectmanagerinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Project Manager</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Project managers lead and organize teams. A vital skill!<br/></li>
+            <li><think><set name="current">10</set></think>Effective project management drives success. Great interest!<br/></li>
+            <li><think><set name="current">7</set></think>Bringing projects to completion is rewarding. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>^ <set>medicalinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Medical Doctor</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Being a medical doctor is a noble profession, saving lives and promoting health. Admirable interest!<br/></li>
+            <li><think><set name="current">7</set></think>Helping people overcome health challenges is deeply rewarding. You're on the path to making a difference!<br/></li>
+            <li><think><set name="current">9</set></think>Medical doctors are at the forefront of healthcare. Excellent choice!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>marketerinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Digital Marketer</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Digital marketing shapes the online world. Fascinating interest!<br/></li>
+            <li><think><set name="current">8</set></think>Marketing in the digital age is essential for businesses. Great choice!<br/></li>
+            <li><think><set name="current">6</set></think>Creating effective digital marketing campaigns is an art. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>journalistinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Journalist</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Journalists uncover and report on important stories. Admirable interest!<br/></li>
+            <li><think><set name="current">11</set></think>Journalism plays a crucial role in informing the public. Great choice!<br/></li>
+            <li><think><set name="current">7</set></think>Sharing stories that matter is a rewarding profession. You're on the path to making a difference!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>graphicdesignerinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Graphic Designer</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Graphic designers bring creativity to visual communication. An inspiring choice!<br/></li>
+            <li><think><set name="current">8</set></think>Designing impactful visuals is crucial in today's world. Great interest!<br/></li>
+            <li><think><set name="current">6</set></think>Creating stunning graphics is both an art and a skill. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>fineartinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Fine Artist</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Fine artists express themselves through their work. Admirable interest!<br/></li>
+            <li><think><set name="current">11</set></think>Art has the power to inspire and provoke thought. Great choice!<br/></li>
+            <li><think><set name="current">7</set></think>Creating meaningful art is a rewarding profession. You're on the path to making a difference!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>financialanalystinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Financial Analyst</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Financial analysts help individuals and businesses make sound financial decisions. Admirable choice!<br/></li>
+            <li><think><set name="current">8</set></think>Analyzing financial data is essential for success. Great interest!<br/></li>
+            <li><think><set name="current">6</set></think>Mastering financial analysis is both a science and an art. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>educatorinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Educator</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Teaching is a noble profession that shapes future generations. Admirable choice!<br/></li>
+            <li><think><set name="current">8</set></think>Mentoring and educating others is essential for progress. Great interest!<br/></li>
+            <li><think><set name="current">6</set></think>Empowering minds through education is a rewarding path. You're on the right track!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>dataanalystinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Data Analyst</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Data analysis drives informed decisions in various fields. Admirable choice!<br/></li>
+            <li><think><set name="current">8</set></think>Interpreting data is crucial for problem-solving. Great interest!<br/></li>
+            <li><think><set name="current">6</set></think>Data analysts bridge the gap between data and insights. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>cybersecurityinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Cybersecurity Specialist</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Cybersecurity protects digital assets in our connected world. Admirable choice!<br/></li>
+            <li><think><set name="current">8</set></think>Securing information is vital for privacy and safety. Great interest!<br/></li>
+            <li><think><set name="current">6</set></think>Defending against cyber threats is a crucial responsibility. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>culinarychefinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Culinary Chef</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Cooking is an art that delights the senses. Admirable choice!<br/></li>
+            <li><think><set name="current">8</set></think>Culinary creativity brings joy through food. Great interest!<br/></li>
+            <li><think><set name="current">6</set></think>Creating delicious dishes is a rewarding journey. You're on the right path!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>civilengineerinterests</set> ^</pattern>
+    <template>
+        <think><set name="option">Civil Engineer</set></think>
+        <random>
+            <li><think><set name="current">2</set></think>Civil engineers shape the infrastructure of society. Admirable choice!<br/></li>
+            <li><think><set name="current">8</set></think>Building essential structures is key to progress. Great interest!<br/></li>
+            <li><think><set name="current">6</set></think>Designing and constructing projects is a rewarding path. You're on the right track!<br/></li>
+        </random>
+        <srai>INTEREST QUESTIONS</srai>
+    </template>
+</category>
+
+
+
+        
+        <category>
             <pattern>^ TEAMWORK ^</pattern>
             <template>
                 <think>

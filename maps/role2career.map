@@ -1,1 +1,21 @@
-[["lead", "software engineer"], ["individual", "web developer"], ["administrator", "database administrator"], ["consultant", "systems analyst"], ["contractor", "network architect"]]
+[
+["manager", "project manager"],
+["teacher", "educator"],
+["doctor", "medical doctor"],
+["artist", "fine artist"],
+["analyst", "data analyst"],
+["designer", "graphic designer"],
+["writer", "technical writer"],
+["developer", "software developer"],
+["specialist", "cybersecurity specialist"],
+["marketer", "digital marketer"],
+["analyst", "financial analyst"],
+["executive", "executive manager"],
+["nurse", "nurse practitioner"],
+["designer", "UX\/UI designer"],
+["engineer", "civil engineer"],
+["scientist", "research scientist"],
+["journalist", "journalist"],
+["psychologist", "psychologist"],
+["chef", "culinary chef"]
+]

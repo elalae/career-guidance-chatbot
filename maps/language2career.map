@@ -1,1 +1,21 @@
-[["python", "software engineer"], ["javascript", "web developer"], ["SQL", "databases"], ["systems", "systems analyst"], ["TCP", "network architect"]]
+[
+["python", "software engineer"],
+["javascript", "web developer"],
+["SQL", "database administrator"],
+["systems", "systems analyst"],
+["TCP", "network architect"],
+["data analysis", "data analyst"],
+["network security", "cybersecurity specialist"],
+["digital marketing", "digital marketer"],
+["financial analysis", "financial analyst"],
+["project management", "project manager"],
+["teaching", "educator"],
+["medicine", "medical doctor"],
+["visual arts", "fine artist"],
+["user experience", "UX\/UI designer"],
+["civil engineering", "civil engineer"],
+["scientific research", "research scientist"],
+["journalism", "journalist"],
+["psychology", "psychologist"],
+["culinary arts", "culinary chef"]
+]

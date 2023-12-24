@@ -91,6 +91,299 @@
                 <srai>SCHOOL QUESTIONS</srai>
             </template>
         </category>
+        
+        <category>
+    <pattern>^ <set>uxuidesigninterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">UX/UI Designer</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="ux/ui design">UX/UI design is a crucial aspect of user-friendly interfaces. Great interest!<br/></li>
+            <li value="user experience">Creating a positive user experience is key. You're on the right track!<br/></li>
+            <li value="user interface design">User interface design is all about usability. Excellent choice!<br/></li>
+            <li>Those are excellent interests in UX/UI design!<br/></li>
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>technicalwriterinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Technical Writer</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="technical writing">Technical writing is a valuable skill in clear communication. Great interest!<br/></li>
+            <li value="documentation">Creating documentation is essential for sharing knowledge. You're on the right path!<br/></li>
+            <li value="technical documentation">Technical documentation ensures clarity. Excellent choice!<br/></li>
+            <li>Those are excellent interests for a Technical Writer!<br/></li>
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>researchscientistinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Research Scientist</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="scientific research">Scientific research is the core of this career. Excellent choice!<br/></li>
+            <li value="data analysis">Data analysis is essential for drawing conclusions. Great interest!<br/></li>
+            <li value="hypothesis testing">Hypothesis testing is a crucial scientific skill. Fantastic!<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>psychologistinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Psychologist</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="human behavior">Understanding human behavior is key. Excellent choice!<br/></li>
+            <li value="psychological assessment">Assessment is vital for diagnosis. Great interest!<br/></li>
+            <li value="research psychology">Research in psychology is valuable. Fantastic!<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>projectmanagerinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Project Manager</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="project management">Project management is the core of this career. Excellent choice!<br/></li>
+            <li value="team leadership">Leading teams is crucial for project success. Great interest!<br/></li>
+            <li value="project planning">Planning is essential for project outcomes. Fantastic!<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>medicalinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Medical Doctor</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="patient care">Patient care is at the heart of this profession.<br/></li>
+            <li value="medical knowledge">Medical knowledge is essential for diagnosis.<br/></li>
+            <li value="clinical skills">Clinical skills are vital for treatment.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>digitalmarketerinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Digital Marketer</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="SEO">SEO plays a crucial role in online visibility.<br/></li>
+            <li value="social media marketing">Social media marketing is key for engagement.<br/></li>
+            <li value="PPC advertising">PPC advertising drives targeted traffic.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>journalistinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Journalist</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="freedom of the press">Protecting press freedom is essential.<br/></li>
+            <li value="news reporting">Reporting accurate news is a core duty.<br/></li>
+            <li value="investigative journalism">Investigative journalism uncovers truth.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>graphicdesignerinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Graphic Designer</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="creative expression">Creative expression is key to graphic design.<br/></li>
+            <li value="visual design">Visual design is essential for impactful graphics.<br/></li>
+            <li value="digital art">Digital art is a significant part of this field.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<!-- Fine Artist Interests -->
+<category>
+    <pattern>^ <set>fineartinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Fine Artist</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="fine arts">Fine arts encompass various creative forms.<br/></li>
+            <li value="creative expression">Creative expression is at the core of fine art.<br/></li>
+            <li value="artistic techniques">Mastering artistic techniques is essential.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<!-- Financial Analyst Interests -->
+<category>
+    <pattern>^ <set>financialanalystinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Financial Analyst</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="financial analysis">Financial analysis is central to this role.<br/></li>
+            <li value="investment analysis">Analyzing investments is a key skill.<br/></li>
+            <li value="data analysis">Data analysis plays a vital role in financial analysis.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>graphicdesignerinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Graphic Designer</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="creative expression">Creative expression is key to graphic design.<br/></li>
+            <li value="visual design">Visual design is essential for impactful graphics.<br/></li>
+            <li value="digital art">Digital art is a significant part of this field.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>educatorinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Educator</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="assessment and evaluation">Assessment and evaluation are crucial in education.<br/></li>
+            <li value="curriculum development">Developing curriculum enhances teaching methods.<br/></li>
+            <li value="classroom management">Effective classroom management is vital for student learning.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>dataanalystinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Data Analyst</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="data analytics tools">Using data analytics tools is a fundamental skill.<br/></li>
+            <li value="data analysis">Data analysis is at the core of data analytics.<br/></li>
+            <li value="data visualization">Data visualization aids in understanding data.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>cybersecurityinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Cybersecurity Specialist</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="network security">Network security is critical to protect data.<br/></li>
+            <li value="information security">Information security is essential for data integrity.<br/></li>
+            <li value="ethical hacking">Ethical hacking helps identify vulnerabilities.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ <set>culinarychefinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Culinary Chef</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="sous vide cooking">Sous vide cooking is a precise culinary technique.<br/></li>
+            <li value="culinary arts">Culinary arts encompass a wide range of skills.<br/></li>
+            <li value="menu planning">Menu planning is essential for a chef's creativity.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>^ <set>civilengineerinterests</set> ^</pattern>
+    <template>
+        <think>
+            <set name="option">Civil Engineer</set>
+            <set name="interest"><star/></set>
+        </think>
+        <condition name="interest">
+            <li value="civil engineering principles">Civil engineering principles are the foundation of the field.<br/></li>
+            <li value="structural engineering software">Software aids in structural design.<br/></li>
+            <li value="sustainable design">Sustainability is a key aspect of modern civil engineering.<br/></li>
+            <!-- Add the rest of the interests here -->
+        </condition>
+        <srai>SCHOOL QUESTIONS</srai>
+    </template>
+</category>
+
 
         <category>
             <pattern>*</pattern>
